@@ -1,5 +1,7 @@
 Tecnologia Scrum
 - Ceremonias: Son 4 ceremonias y poseen un orden.
+
+
 1.- Sprint Planning.- Es el inicio del Sprint, para ello se reune el equipo Scrum completo donde los integrantes se deberan poner deacuerdo sobre el trabajo a realizar durante el sprint.
 El Product Owner selecciona y prioriza los elementos mas importantes del Product Backlog;explicando a cada miembro los elementos seleccionados
 

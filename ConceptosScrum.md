@@ -1,4 +1,4 @@
-Tecnologia Scrum
+**Tecnologia Scrum**
 - Ceremonias: Son 4 ceremonias y poseen un orden.
 
 
@@ -13,7 +13,7 @@ Este momento es especialmente importante, para recibir retro-alimentación del c
 
 4.- Sprint Retrospective.- Se realiza al final para que el equipo pueda mirar hacia atrás en su trabajo e identificar elementos que podrían mejorarse. La reunión no deberá tener una duración mayor a 2 horas por cada Sprint de dos semanas.
 
-- Artefactos:a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum . Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
+- Artefactos: a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum . Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
 
 -  Roles : En la metodología Scrum podemos identificar tres roles principales: Product Owner, Scrum Master y el Scrum Team. Estos tres roles obligatoriamente se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad. En conjunto se les conoce como el Scrum Core Team.

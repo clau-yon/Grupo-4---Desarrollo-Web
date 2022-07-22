@@ -1,6 +1,6 @@
 # Metodologías Agiles y Gestión de Proyectos
 
- <details><summary> 1. Metodología Scrum:</summary>
+ <details><summary> I. Metodología Scrum:</summary>
   
 ## ***Manifesto Agile (Valores):***
 
@@ -48,8 +48,72 @@ finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no h
   
   </details>
 
-  <details><summary>2. GITHUB - VSC</summary>
-  
+  <details><summary>II. GITHUB - VSC</summary>
+
+ ## ***Github***
+ 
+Github es una plataforma de codigo abierto en la cual nos ofrece la posibilidad en publiucar repositorios de codigo, colaborar en otros proyectos.
+## ***¿Cómo crear una cuenta en Github?***
+Accedemos a github.com le damos click a Sign up y luego seleccionamos el plan gratuito con repositorio publico para finalmente seguir las instrucciones
+
+## ***¿Cómo crear un repositorio?***
+Accedemos a la cuenta y luego le damos en el menú en la parte superior derecha y seleccionamos en ```New Repository```
+
+## ***Github Projects***
+Permite al equipo de desarrollo poder coordinar, trackear y actualizar las tareas de un proyecto desde cualquier lugar
+
+## ***Issues***
+Una issue es una unidad de trabajo designada para realizar una mejor en el sistema, puede ser el arreglo de un fallo, alguna característica pedida y cualquier idea o sugerencia al equipo de desarrollo
+
+## ***Project Board***
+Permite organizar y priorizar el trabajo de un equipo de desarrollo, se puede crear un proyecto para cada funcionalidad, sprint, etc.
+
   </details>
-3. GIT y GITHUB
-4. GIT
+
+<details><summary>III. GIT</summary>
+ 
+ ## ***Git***
+ 
+ Es un sistema de control de versiones(VCS) distribuido y de código abierto diseñado para manejar proyectos, algunas características principales son:
+
+•	Coordinar el trabajo entre los diferentes desarrolladores del equipo
+
+•	Permite conocer los cambios realizados en los programas o software que vamos desarrollando en el tiempo
+
+•	Repositorio Locales y Remotos
+
+## ***Sistemas de control de versiones distribuidos***
+
+•	Sistema distribuido que permite el trabajo incluso sin conexión
+
+•	Crear ranas y mezclarlas poco propenso a los problemas
+
+•	Copias instantáneas
+
+•	Permite flujos de trabajo muy flexibles
+
+## ***Trabajar con Git***
+Lo primero que debe hacer cuando se instale es establecer el nombre de usuario y el correo electronico 
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+ 
+###### ***El Editor***
+Podemos escoger el editor que se utilizara cuando Git necesite que introduzcas un mensaje, si no indicamos se usara el editor por defecto del sistema
+ ```
+$ git config --global core.editor emacs
+```
+ 
+###### ***Comandos Basico***
+ Podemos escoger el editor que se utilizara cuando Git necesite que introduzcas un mensaje, si no indicamos se usara el editor por defecto del sistema
+ ```
+$ git clone
+$ git init
+$ git add <file>
+$ git status
+$ git commit
+$ git push
+$ git pull
+```
+</details>
